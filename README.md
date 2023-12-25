@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MANMOHAN1998
 - 👀 I’m interested in Back end engineering
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on any project related to Django or web scraping.
+- 🌱 I’m currently working on Django framework.
+- 💞️ I’m looking to collaborate on any project related to Django.
 - 📫 How to reach me can contact me through mail:-</em>manmohansingh771998@gmail.com</em> or my personal num:- 7060332604
 
 <!---
